@@ -65,8 +65,8 @@ def test_create_consult_letter():
 
     # Writes the output to a txt file and by default it will create the txt file if it doesn't exist already
     with open('output.txt', 'w') as file:
-        file.write(consult_letter)
+        file.write(consult_letter_created)
 
     # Prints response so we can see it in the terminal
-    print(consult_letter)
-    return consult_letter
+    print(consult_letter_created)
+    return consult_letter_created
