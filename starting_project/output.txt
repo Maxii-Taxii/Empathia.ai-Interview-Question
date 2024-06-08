@@ -1,0 +1,18 @@
+Subject: Consultation Report for Michael
+
+Dear Dr. [Referring Doctor's Name],
+
+Thank you for referring Michael for a Cardiology consultation. He was examined on 2023/05/15.
+
+Michael, a 45-year-old male, presented with a chief complaint of chest pain and shortness of breath. He has been experiencing these symptoms for the past two weeks, especially after physical exertion. The patient has a history of hypertension, diagnosed with type 2 diabetes in 2018, and suffered a mild heart attack in 2020. Post-heart attack, he underwent angioplasty. His father had a history of heart disease and passed away from a heart attack at age 60. Michael is a software engineer who works from home, lives with his wife and two children, smokes a pack of cigarettes per day, and occasionally drinks alcohol. His current medications include Metformin, Lisinopril, and Aspirin. Michael is allergic to penicillin.
+
+Upon examination, mild wheezing was heard in the lungs, with no edema in the lower extremities recorded in the notes. Vital signs showed a blood pressure of 150/90 mmHg, heart rate of 85 bpm. Investigations indicated a previous myocardial infarction on ECG and elevated cholesterol levels.
+
+The assessment suggests a likely diagnosis of Angina pectoris and Coronary artery disease, considering his symptoms and medical history. The treatment plan includes scheduling a stress test to evaluate the heart's function during physical activity, adjusting hypertension medication to better control blood pressure, recommending a smoking cessation program, and a follow-up appointment in one month to review test results and adjust the treatment plan as necessary.
+
+If you have any further questions or require additional information, please do not hesitate to contact me at dremilysmith@hospital.com
+
+Sincerely,
+Dr. Emily Smith
+Cardiology
+dremilysmith@hospital.com
